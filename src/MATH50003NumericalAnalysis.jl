@@ -39,6 +39,10 @@ notebook("src/sheets/sheet2s.jmd"; pkwds...)
 write("src/sheets/sheet3.jmd", replace(read("src/sheets/sheet3s.jmd", String), r"\*\*SOLUTION\*\*(.*?)\*\*END\*\*"s => ""))
 notebook("src/sheets/sheet3.jmd"; pkwds...)
 notebook("src/sheets/sheet3s.jmd"; pkwds...)
+write("src/sheets/sheet4.jmd", replace(read("src/sheets/sheet4s.jmd", String), r"\*\*SOLUTION\*\*(.*?)\*\*END\*\*"s => ""))
+notebook("src/sheets/sheet4.jmd"; pkwds...)
+notebook("src/sheets/sheet4s.jmd"; pkwds...)
+
 
 #####
 # labs
@@ -60,6 +64,10 @@ Literate.notebook("src/labs/lab3.jl", "labs/")
 Literate.notebook("src/labs/lab4s.jl", "labs/")
 write("src/labs/lab4.jl", replace(replace(read("src/labs/lab4s.jl", String), r"## SOLUTION(.*?)## END"s => ""), r"@test" => "@test_broken"))
 Literate.notebook("src/labs/lab4.jl", "labs/")
+
+Literate.notebook("src/labs/lab5s.jl", "labs/")
+write("src/labs/lab5.jl", replace(replace(read("src/labs/lab5s.jl", String), r"## SOLUTION(.*?)## END"s => ""), r"@test" => "@test_broken"))
+Literate.notebook("src/labs/lab5.jl", "labs/")
 
 
 ####
