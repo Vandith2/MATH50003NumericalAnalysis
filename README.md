@@ -29,7 +29,7 @@ facilitate fast and accurate computation of derivatives.
 2. [Orthogonal Matrices](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/blob/main/notes/II.2.OrthogonalMatrices.ipynb): we discuss types of orthogonal 
 and unitary matrices (permutations, rotations, and reflections).
 3. [Least Squares and QR](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/blob/main/notes/II.3.QR.ipynb): we discuss least squares and the computation of the QR factorisation.
-4. [PLU and Cholesky](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/blob/main/notes/II.3.QR.ipynb): we discuss 
+4. [PLU and Cholesky](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/blob/main/notes/II.4.LU.ipynb): we discuss 
 the PLU and Cholesky factorisations, as well as symmetric positive definite matrices.
 
 
@@ -61,7 +61,8 @@ the PLU and Cholesky factorisations, as well as symmetric positive definite matr
 2. [Interval Arithmetic](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/blob/main/labs/lab2.ipynb) ([Raw](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/blob/main/src/labs/lab2.jl)) ([Solutions](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/blob/main/labs/lab2s.ipynb))
 2. [Divided Differences and Dual Numbers](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/blob/main/labs/lab3.ipynb) ([Raw](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/blob/main/src/labs/lab3.jl)) ([Solutions](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/blob/main/labs/lab3s.ipynb))
 4. [Structured Matrices](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/blob/main/labs/lab4.ipynb) ([Raw](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/blob/main/src/labs/lab4.jl))
-5. [Orthogonal Matrices](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/blob/main/labs/lab4.ipynb) ([Raw](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/blob/main/src/labs/lab5.jl))
+5. [Orthogonal Matrices](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/blob/main/labs/lab5.ipynb) ([Raw](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/blob/main/src/labs/lab5.jl))
+6. [Least squares, QR, and Cholesky](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/blob/main/labs/lab6.ipynb) ([Raw](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/blob/main/src/labs/lab6.jl))
 
 
 ## Lecture material
@@ -74,6 +75,7 @@ the PLU and Cholesky factorisations, as well as symmetric positive definite matr
 6. Dual Numbers: [Notebook](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/blob/main/lectures/Lecture6.ipynb)
 7. Structured Matrices: [Notebook](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/blob/main/lectures/Lecture7.ipynb)
 8. Orthogonal Matrices: [Notebook](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/blob/main/lectures/Lecture8.ipynb)
+9. Reflections: [Notebook](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/blob/main/lectures/Lecture9.ipynb)
 
 
 
