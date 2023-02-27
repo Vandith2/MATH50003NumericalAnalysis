@@ -46,7 +46,6 @@ $$
 Now assume we continue this process and manage to deduce $A_2 = L_2 U_2$.
 Then
 $$
-
 A = L_1 \begin{bmatrix} α_1 & 𝐰_1^⊤ \\  & L_2U_2 \end{bmatrix}
 = \underbrace{L_1 \begin{bmatrix}
 1 \\
@@ -130,14 +129,14 @@ A = \underbrace{\begin{bmatrix} 1  \\
                      & 3/2 & 1
                     \end{bmatrix}}_{L̃_2} \begin{bmatrix} 1 & 1 & 1 \\
                     0 & 2 & 6 \\
-                    0 & 0 & 5
+                    0 & 0 & -1
                     \end{bmatrix} \\
 = \underbrace{\begin{bmatrix} 1  \\
                     2 & 1 &  \\
                     1 & 3/2 & 1
                     \end{bmatrix}}_{L} \underbrace{\begin{bmatrix} 1 & 1 & 1 \\
                     0 & 2 & 6 \\
-                    0 & 0 & 5
+                    0 & 0 & -1
                     \end{bmatrix}}_U
 \end{align*}
 $$
