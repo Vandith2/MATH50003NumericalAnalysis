@@ -55,7 +55,7 @@ their properties including three-term recurrences and Jacobi matrices.
 
 1. [Practice computer-based exam](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/blob/main/exams/practice.ipynb) ([Solutions](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/blob/main/exams/practices.ipynb))
 2. [2021–22 Computer-based exam](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/blob/main/exams/computerexam2122.ipynb) ([Solutions](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/blob/main/exams/computerexam2122s.ipynb))
-3. Computer-based exam: 12:00 17 March 2023 (1 hour in-person exam with 15 minutes to read/download before and 15 minutes to upload after. You may use your own machine.)
+2. [2022–23 Computer-based exam](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/blob/main/exams/computerexam2223.ipynb) ([Solutions](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/blob/main/exams/computerexam2223s.ipynb))
 3. [Practice final exam](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/blob/main/exams/practicefinal.pdf)
 3. Final exam (pen-and-paper): TBA
 
@@ -72,8 +72,10 @@ their properties including three-term recurrences and Jacobi matrices.
 7. [SVD and Condition Numbers](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/blob/main/sheets/sheet7.ipynb)
 ([Solutions](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/blob/main/sheets/sheet7s.ipynb))
 8. [Fourier Expansions](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/blob/main/sheets/sheet8.ipynb) ([Solutions](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/blob/main/sheets/sheet8s.ipynb))
-9. [Orthogonal Polynomials](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/blob/main/sheets/sheet9.ipynb)
-10. [Quadrature](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/blob/main/sheets/sheet10.ipynb)
+9. [Orthogonal Polynomials](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/blob/main/sheets/sheet9.ipynb) ([Solutions](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/blob/main/sheets/sheet9s.ipynb))
+10. [Quadrature](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/blob/main/sheets/sheet10.ipynb) ([Solutions](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/blob/main/sheets/sheet10s.ipynb))
+11. [Revision](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/blob/main/sheets/revision.ipynb)
+([Solutions](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/blob/main/sheets/revisions.ipynb))
 
 
 
